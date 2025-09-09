@@ -10,9 +10,9 @@ O projeto **Pesquisa de Pareceres** tem como objetivo criar um sistema eficiente
 - **Microsoft SQL Server (Sistema de gerenciamento de banco de dados)**
   - **T-SQL** - Linguagem para desenvolvimento da lógica no banco
   - **DDL/DML** - Para estruturação e manipulação de dados
-  - **Stored Procedures** e **Views** para disponibilização segura de dados  
-  - **Full-Text Search** para indexação e busca de PDFs  
-  - **Índices** otimizados para acelerar pesquisas  
+  - **Stored Procedures** e **Views** - Para disponibilização segura de dados  
+  - **Full-Text Search** - Para indexação e busca de PDFs  
+  - **Índices** - Otimização para acelerar pesquisas  
 
 - **ASP (Interface)**  
   - Responsável pela camada de apresentação da aplicação. Criada por outro desenvolvedor. 
