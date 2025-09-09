@@ -1,7 +1,7 @@
 # 📄 Projeto: Pesquisa de Pareceres
  
 ## 🎯 Objetivo
-O projeto **Pesquisa de Pareceres** tem como objetivo criar um sistema eficiente de pesquisa e recuperação de **pareceres jurídicos institucionais** armazenados em formato PDF com lógica de acesso através de banco de dados Microsoft SQL Server. A solução visa agilizar o acesso às informações relevantes por meio de **indexação full-text** e **padronização de dados**, além de garantir consultas **rápidas, precisas e otimizadas**.
+O projeto **Pesquisa de Pareceres** tem como objetivo criar um sistema eficiente de pesquisa e recuperação de **pareceres jurídicos institucionais** armazenados em formato PDF, com lógica de acesso através de banco de dados Microsoft SQL Server. A solução visa agilizar o acesso às informações relevantes por meio de **indexação full-text** e **padronização de dados**, além de garantir consultas **rápidas, precisas e otimizadas**.
 
 
 ---
